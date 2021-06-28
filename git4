@@ -1,0 +1,42 @@
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ history
+    1  git version
+    2  git --help
+    3  cd D:
+    4  ll
+    5  cd git-github-main
+    6  ll
+    7  cd git-github-main/
+    8  ll
+    9  ll
+   10  pwd
+   11  ls
+   12  ll
+   13  git init
+   14  git status
+   15  cd d
+   16  cd d.
+   17  cd .d
+   18  cd .D
+   19  cd d:
+   20  cd git-demo/
+   21  ll
+   22  cd project1/
+   23  git status
+   24  dir
+   25  ll
+   26  touch index.html
+   27  notepad index.html
+   28  git status
+   29  git add index.html
+   30  git status
+   31  notepad index.html
+   32  git status
+   33  git add index.html
+   34  git status
+   35  git add .
+   36  git commit -m 'first commit: index file added'
+   37  git status
+   38  git log
+   39  git log --oneline
+   40  history
