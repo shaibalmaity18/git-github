@@ -1,74 +1,25 @@
 
-USER@DESKTOP-6MB4BNC MINGW64 ~
-$ cd d:
-
-USER@DESKTOP-6MB4BNC MINGW64 /d
-$ cd git-demo/
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo
-$ ll
-total 0
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo
-$ mkdir project1
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo
-$ cd project1/
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1
-$ git status
-fatal: not a git repository (or any of the parent directories): .git
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1
-$ git init
-Initialized empty Git repository in D:/git-demo/project1/.git/
-
 USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git status
-On branch master
+$ history
+    1  git version
+   19  cd d:
+   20  cd git-demo/
+   21  ll
+   22  mkdir project1
+   23  cd project1/
+   24  git status
+   25  git init
+   26  git status
+   27  git config --global user.name"shaibalmaity18"
+   28  git status
+   29  git config --global user.name
+   30  git config --global user.name "shaibalmaity18"
+   31  git config --global user.name
+   32  git config --global user.email
+   33  git config --global user.email "shaibalmaity18@gmail.com"
+   34  git config --global user.email
+   35  git config user.name
+   36  git config user.email
+   37  clear
+   38  history
 
-No commits yet
-
-nothing to commit (create/copy files and use "git add" to track)
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.name"shaibalmaity18"
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git status
-On branch master
-
-No commits yet
-
-nothing to commit (create/copy files and use "git add" to track)
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.name
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.name "shaibalmaity18"
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.name
-shaibalmaity18
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.email
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.email "shaibalmaity18@gmail.com"
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config --global user.email
-shaibalmaity18@gmail.com
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config user.name
-shaibalmaity18
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$ git config user.email
-shaibalmaity18@gmail.com
-
-USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
-$
