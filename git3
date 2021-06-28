@@ -1,0 +1,74 @@
+
+USER@DESKTOP-6MB4BNC MINGW64 ~
+$ cd d:
+
+USER@DESKTOP-6MB4BNC MINGW64 /d
+$ cd git-demo/
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo
+$ ll
+total 0
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo
+$ mkdir project1
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo
+$ cd project1/
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1
+$ git init
+Initialized empty Git repository in D:/git-demo/project1/.git/
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.name"shaibalmaity18"
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.name
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.name "shaibalmaity18"
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.name
+shaibalmaity18
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.email
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.email "shaibalmaity18@gmail.com"
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config --global user.email
+shaibalmaity18@gmail.com
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config user.name
+shaibalmaity18
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$ git config user.email
+shaibalmaity18@gmail.com
+
+USER@DESKTOP-6MB4BNC MINGW64 /d/git-demo/project1 (master)
+$
