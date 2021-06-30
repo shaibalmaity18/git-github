@@ -1,1 +1,23 @@
 
+96  git status
+   97  git init
+   98  git status
+   99  git log
+  100  git log -oneline
+  101  git log - oneline
+  102  git log --oneline
+  103  git remote add origin https://github.com/shaibalmaity18/git-github.git
+  104  git remote
+  105  git remote -v
+  106  git push -u origin master
+  107*
+  108  git remote add origin https://github.com/shaibalmaity18/git-github.git
+  109  git push -u origin master
+  110  git push -u
+  111  git push -u origin
+  112  git remote
+  113  git remote add origin https://github.com/shaibalmaity18/git-github.git
+  114  git remote
+  115  git remote -v
+  116  git push -u origin master
+  117  git push -u https://github.com/shaibalmaity18/git-github.git master
