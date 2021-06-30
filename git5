@@ -21,3 +21,18 @@
   115  git remote -v
   116  git push -u origin master
   117  git push -u https://github.com/shaibalmaity18/git-github.git master
+  139  ls
+  140  vim another.txt
+  141  git sta
+  142  git status
+  143  git add another.txt
+  144  git status
+  145  git commit -m 'pls delete the file'
+  146  git status
+  147  git push -u origin master
+  148  vi another.txt
+  149  git status
+  150  git add .
+  151  git status
+  152  git commit -m 'new line'
+  153  git push -u origin master
