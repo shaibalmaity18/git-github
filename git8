@@ -1,0 +1,36 @@
+  243  git status
+  244  git branch
+  245  vi serect.txt
+  246  git status
+  247  git add serect.txt
+  248  git status
+  249  git commit -m 'serect file added'
+  250  git status
+  251  git push -u origin master
+  252  dir
+  253  ls -a
+  254  touch .gitignore
+  255  ls
+  256  ls -a
+  257  git status
+  258  git add .
+  259  git status
+  260  git commit -m 'git ignore added'
+  261  ls
+  262  ls -a
+  263  cat .gitignore
+  264  vi .gitignore
+  265  git add .
+  266  git commit -m 'screct hided'
+  267  git push -U origin master
+  268  git push -U origin master
+  269  git push -u origin master
+  270  ls
+  271  rm -rf serect.txt
+  272  ls
+  273  git add .
+  274  git commit
+  275  git commit -m 'ok'
+  276  git push -u origin master
+  277  history
+git 
