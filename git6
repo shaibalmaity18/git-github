@@ -1,0 +1,30 @@
+  160  git branch
+  161  git branch localshaibal
+  162  git branch
+  163  git checkout localshaibal
+  164  git branch
+  165  dir
+  166  cat index.html
+  167  vim another.txt
+  168  cat another.txt
+  169  git status
+  170  git add another.txt
+  171  git status
+  172  git commit -m 'new line added in file of localshaibal branch'
+  173  git push -u origin localshaibal
+  174  git status
+  175  git branch
+  176  git checkout master
+  177  git branch
+  178  git merge localshaibal
+  179  ls
+  180  git status
+  181  git branch
+  182  l
+  183  sls
+  184  ls
+  185  cat another.txt
+  186  git status
+  187  git branch
+  188  git branch
+  189  history
